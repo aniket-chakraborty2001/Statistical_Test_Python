@@ -1,0 +1,6 @@
+,Gr1,Gr2,Gr1_Mean,Gr2_Mean,Critical_Value,P_value,Status
+Mathematics,Male,Female,32.86666666666667,33.266666666666666,0.05,0.6,No Difference in Means
+Physics,Male,Female,33.333333333333336,32.3,0.05,0.228,No Difference in Means
+Chemistry,Male,Female,32.6,29.566666666666666,0.05,0.334,No Difference in Means
+Biology,Male,Female,28.466666666666665,30.666666666666668,0.05,0.51,No Difference in Means
+ComputerScience,Male,Female,31.433333333333334,30.233333333333334,0.05,0.698,No Difference in Means
