@@ -1,0 +1,11 @@
+Sub1,Sub2,Sub1Mean,Sub2Mean,Alpha,P_Value,Test_Status
+Mathematics,Mathematics,33.06666666666667,33.06666666666667,0.05,1.0,No Significant Difference
+Mathematics,Physics,33.06666666666667,32.81666666666667,0.05,0.662,No Significant Difference
+Mathematics,Chemistry,33.06666666666667,31.083333333333332,0.05,0.219,No Significant Difference
+Mathematics,Biology,33.06666666666667,29.566666666666666,0.05,0.041,Significant Difference
+Mathematics,ComputerScience,33.06666666666667,30.833333333333332,0.05,0.159,No Significant Difference
+Mathematics,Bengali,33.06666666666667,29.133333333333333,0.05,0.017,Significant Difference
+Mathematics,English,33.06666666666667,30.25,0.05,0.12,No Significant Difference
+Mathematics,History,33.06666666666667,28.95,0.05,0.014,Significant Difference
+Mathematics,Geography,33.06666666666667,28.316666666666666,0.05,0.004,Significant Difference
+Mathematics,Statistics,33.06666666666667,31.0,0.05,0.189,No Significant Difference
